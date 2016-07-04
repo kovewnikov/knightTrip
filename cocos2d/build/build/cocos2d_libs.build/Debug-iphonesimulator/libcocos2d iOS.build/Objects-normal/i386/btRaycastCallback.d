@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btRaycastCallback.cpp \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexShape.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btTriangleShape.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btBoxShape.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btPolyhedralConvexShape.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexInternalShape.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btAabbUtil2.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btSubSimplexConvexCast.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btConvexCast.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/LinearMath/btIDebugDraw.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btGjkConvexCast.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btContinuousConvexCollision.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btRaycastCallback.h \
+  /Users/kovewnikov/work_kovewnikov/c++/knightTrip/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btTriangleCallback.h
